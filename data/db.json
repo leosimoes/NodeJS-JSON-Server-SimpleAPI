@@ -1,0 +1,7 @@
+{
+  "objects" : [
+    {"_id" : 1 , "name" : "first object", "value" : "first" },
+    {"_id" : 2 , "name" : "second object", "value" : "second" },
+    {"_id" : 3 , "name" : "third object", "value" : "third" }
+  ]
+}
